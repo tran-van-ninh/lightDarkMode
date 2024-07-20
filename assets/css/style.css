@@ -43,6 +43,7 @@ body.dark{
     background: var(--primary-color);
     width: 80px;
     border-radius: 20px;
+    cursor: pointer;
 }
 
 .switch-wp label{
@@ -52,6 +53,7 @@ body.dark{
     border-radius: 50%;
     display: block;
     transition: 0.5s;
+    cursor: pointer;
     position: relative;
 }
 
@@ -100,4 +102,5 @@ main h1{
     border-radius: 10px;
     background: var(--primary-color);
     border: none;
+    cursor: pointer;
 }
